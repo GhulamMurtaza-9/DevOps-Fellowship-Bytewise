@@ -32,5 +32,5 @@ The Waterfall methodology has the following drawbacks:
 - Poor model for long and ongoing projects.
 - Not suitable for the projects where requirements are at a moderate to high risk of changing.
 - It is difficult to measure progress within stages.
-- Cannot accommodate changing requirements
+- Cannot accommodate changing requirements.
 
