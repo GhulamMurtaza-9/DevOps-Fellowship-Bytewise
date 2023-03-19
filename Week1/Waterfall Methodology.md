@@ -12,7 +12,11 @@ phase must be completed before the next phase can begin. <br>
 - Deployment phase
 - Maintenance phase
 
+![waterfall-model-1](https://user-images.githubusercontent.com/128311980/226200811-b424eb20-72cb-4236-9aa8-bbf2973d7d9a.png)
+
+
 <b> Benefits of Waterfall Model </b>
+
 The Waterfall methodology provides the following benefits:
 
 - The requirements are clearly and accurately stated, they remain unchanged throughout the entire project development.
