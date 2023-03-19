@@ -1,6 +1,6 @@
 # Agile Methadology 
 
-Agile Methodology is a Software Project management model that prioritizes flexibility and continuous improvement over following a strict plan. 
+ Agile Methodology is a Software Project management model that prioritizes flexibility and continuous improvement over following a strict plan. 
 It emphasizes collaboration between teams, customers, and stakeholders and encourages open communication and transparency throughout the project lifecycle.
 Agile uses short iterations called <b>sprints*</b> to manage and track progress, with regular reviews and assessments to ensure that the project stays on track
 
