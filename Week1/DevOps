@@ -1,0 +1,59 @@
+# History of DevOps 
+
+The DevOps movement started to coalesce some time between 2007 and 2008, when IT operations and software development communities raised concerns 
+about what they felt was a fatal level of dysfunction in the industry. They railed against the traditional software development model, which called 
+for those who write code to be organizationally and functionally apart from those who deploy and support that code.The term “DevOps” was first coined by 
+Patrick Debois in 2009. The DevOps philosophy has naturally evolved from the Agile methodology.
+
+# What is DevOps
+
+The term DevOps is a Combination of Two words i.e Development and Operations. DevOps is a methadology that combines Software Develpopment and It Operations and allows
+a single team to manage their entire Application Development life cycle that is Development, Testing, Deployment, Operations and Monitoring. It is a Software Development 
+Approach in which Automation is implemented at every stage through which Superior Quality Software can be developed Quickly with more Realibility.
+
+# Stages of DevOps
+
+DevOps is a software development approach that aims to develop high-quality software quickly and with more reliability. It consists of various stages such as continuous 
+development, continuous integration, continuous testing, continuous deployment, and continuous monitoring.
+
+<b> Continuous Development </b>
+
+Continuous development is an iterative approach to software application development in which updates are released in small, ongoing batches.
+
+<b> Continuous Integration </b>
+
+Continuous integration (CI) is a software development process where developers integrate the new code they’ve written more frequently throughout the development cycle,
+adding it to the code base at least once a day . It’s a primary DevOps best practice, allowing developers to frequently merge code changes into a central repository where
+builds and tests then run.
+
+<b> Continuous Dielivery </b>
+
+ Continuous delivery (CD) is a software development practice where code changes are automatically prepared for a release to production. It expands upon continuous 
+ integration by deploying all code changes to a testing environment and/or a production environment after the build stage. The primary goal of continuous delivery is
+ to make software deployments painless, low-risk events that can be performed at any time, on demand.
+ 
+ <b> Continuous Deployment </b>
+ 
+Continuous Deployment is a strategy in software development where code changes to an application are automatically tested and released into the production environment.
+This automation is driven by a series of predefined tests. Once new updates pass those tests, the system pushes the updates directly to the software’s users
+
+ 
+# How DevOps improve Productivity 
+
+DevOps is a set of practices that aims to unify people, process, and technology to bring better products to customers faster. By adopting a DevOps culture along with DevOps 
+practices and tools, teams gain the ability to better respond to customer needs, increase confidence in the applications they build, and achieve business goals faster.
+DevOps enables continuous software delivery with less complex problems to fix and faster resolution of problems. It has certainly helped organizations such as Etsy,
+Netflix, Facebook, Amazon, Twitter and Google to revolutionize their performance levels and deploy at a never-before-seen rate.
+
+# Benefits of DevOps
+
+The Following are some Benefits of DevOps
+
+Faster and better product delivery 
+Faster issue resolution and reduced complexity
+Greater scalability and availability 
+More stable operating environments
+Better resource utilization 
+Greater automation 
+Greater visibility into system outcomes and greater innovation
+
